@@ -15,6 +15,7 @@
     UILabel *lbl_ip_add;
     UIButton *btn_connect;
     UITextField *textField;
+    /////////////////////////////
 }
 
 @end
