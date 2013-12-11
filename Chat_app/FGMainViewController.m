@@ -57,6 +57,10 @@
 -(void)connect{
     //code here
 }
+-(void)test
+{
+    
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
