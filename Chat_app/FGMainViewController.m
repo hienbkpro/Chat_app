@@ -18,6 +18,8 @@
     self = [super init];
     if (self) {
         // Custom initialization
+        
+        //kdfdskd
         btn_connect = [UIButton buttonWithType:UIButtonTypeRoundedRect];
         btn_connect.frame = CGRectMake(0, 200, 80, 40);
         [btn_connect setTitle:@"Connect" forState:UIControlStateNormal];
